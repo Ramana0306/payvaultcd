@@ -234,7 +234,7 @@ function App() {
                 <div className="inventor-avatar">R</div>
                 <div className="inventor-info">
                   <h4>Ramana Murugan</h4>
-                  <span>Inventor & Developer</span>
+                  <span>Inventor</span>
                   <span className="inventor-degree">B.Tech Information Technology</span>
                 </div>
               </div>
